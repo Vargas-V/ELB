@@ -1,6 +1,4 @@
 # Elastic Load Balancer (ELB)
-
-<h1>Elastic Load Balancer</h1>
 <div><b>Setting up an Application Load Balancer (ALB) for your VPC</b></div>
 <h1>Creating an Application Load Balancer in AWS | Tutorial</h1>
 <div><b>Creation Date:</b> December 3, 2023</div>
