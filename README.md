@@ -1,1 +1,1 @@
-# ELB
+# Elastic Load Balancer (ELB)
